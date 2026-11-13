@@ -1,4 +1,6 @@
 tensorflow-cpu
 streamlit
+pandas
+altair
 pillow
 numpy
